@@ -50,51 +50,51 @@
         ""
       ]
     },
-  {
-    "name": "Autónomo",
-    "position": "Diseñador Gráfico",
-    "url": "",
-    "startDate": "2024-01-01",
-    "endDate": null,
-    "summary": "He desarrollado logotipos, isotipos, isologos, banners publicitarios, afiches, líneas gráficas y demás en función de las necesidades de mis clientes, cumpliendo a satisfacción con la actividad requerida y el enfoque.",
-    "highlights": [
-      ""
-    ]
-  },
-  {
-    "name": "Liga Quindiana de Hapkido",
-    "position": "Profesor",
-    "url": "",
-    "startDate": "2013-01-01",
-    "endDate": null,
-    "summary": "Me he desempeñado en el cardo de instructor, entrenador y profesor en el ámbito de las artes marciales desde hace más de 10 años, brindando acompañamiento en procesos deportivos y técnicos correspondientes a la Liga Quindiana de Hapkido (LQH).",
-    "highlights": [
-      "Started the company"
-    ]
-  },
-  {
-    "name": "Distribuciones JD",
-    "position": "Asesor Comercial",
-    "url": "",
-    "startDate": "2023-06-01",
-    "endDate": "2024-12-31",
-    "summary": "Desempeñé el cargo de asesor comercial y mercaderista, con diversas funciones dentro de la empresa en el área comercial.",
-    "highlights": [
-      "Started the company"
-    ]
-  },
-  {
-    "name": "VaserMJ distribuciones",
-    "position": "Asesor Comercial",
-    "url": "",
-    "startDate": "2021-11-01",
-    "endDate": "2023-02-01",
-    "summary": "Desempeñé el cargo de asesor comercial y mercaderista, con diversas funciones dentro de la empresa en el área comercial.",
-    "highlights": [
-      "Started the company"
-    ]
-  }
-],
+    {
+      "name": "Autónomo",
+      "position": "Diseñador Gráfico",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "summary": "He desarrollado logotipos, isotipos, isologos, banners publicitarios, afiches, líneas gráficas y demás en función de las necesidades de mis clientes, cumpliendo a satisfacción con la actividad requerida y el enfoque.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Liga Quindiana de Hapkido",
+      "position": "Profesor",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "summary": "Me he desempeñado en el cardo de instructor, entrenador y profesor en el ámbito de las artes marciales desde hace más de 10 años, brindando acompañamiento en procesos deportivos y técnicos correspondientes a la Liga Quindiana de Hapkido (LQH).",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Distribuciones JD",
+      "position": "Asesor Comercial",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2024-12-31",
+      "summary": "Desempeñé el cargo de asesor comercial y mercaderista, con diversas funciones dentro de la empresa en el área comercial.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "VaserMJ distribuciones",
+      "position": "Asesor Comercial",
+      "url": "",
+      "startDate": "2021-11-01",
+      "endDate": "2023-02-01",
+      "summary": "Desempeñé el cargo de asesor comercial y mercaderista, con diversas funciones dentro de la empresa en el área comercial.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
@@ -137,15 +137,117 @@
     "url": "https://publication.com",
     "summary": "Description…"
   }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Semantic HTML",
+        "Forms and Validation",
+        "Accessibility",
+        "SEO Best Practices"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Flexbox",
+        "Grid",
+        "Animations",
+        "Responsive Design",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "ES6+",
+        "DOM Manipulation",
+        "Fetch API",
+        "Event Handling",
+        "Promises & Async/Await"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Interfaces",
+        "Types",
+        "Generics",
+        "Decorators",
+        "Type Safety"
+      ]
+    },
+    {
+      "name": "React.js",
+      "level": "Advanced",
+      "keywords": [
+        "Hooks",
+        "React Router",
+        "Context API",
+        "State Management",
+        "Component Lifecycle"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "keywords": [
+        "Express.js",
+        "REST APIs",
+        "Middleware",
+        "JWT Authentication",
+        "File Handling"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "Query Optimization",
+        "Stored Procedures",
+        "Joins & Indexing"
+      ]
+    },
+    {
+      "name": "NoSQL",
+      "level": "Intermediate",
+      "keywords": [
+        "MongoDB",
+        "Mongoose",
+        "Aggregation Framework",
+        "Indexes",
+        "Schema Design"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Branching",
+        "Merge Conflicts",
+        "Rebasing"
+      ]
+    },
+    {
+      "name": "Web Performance",
+      "level": "Intermediate",
+      "keywords": [
+        "Lazy Loading",
+        "Code Splitting",
+        "Compression",
+        "Minification",
+        "Caching Strategies"
+      ]
+    }
+  ],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
@@ -161,7 +263,8 @@
     "name": "Jane Doe",
     "reference": "Reference…"
   }],
-  "projects": [{
+  "projects": [
+    {
     "name": "Project",
     "startDate": "2019-01-01",
     "endDate": "2021-01-01",
@@ -170,5 +273,90 @@
       "Won award at AIHacks 2016"
     ],
     "url": "https://project.com/"
-  }]
+    },
+    {
+      "name": "portfolio-min",
+      "description": "Un portafolio minimalista desarrollado con Astro.",
+      "highlights": ["Implementación de diseño responsivo", "Optimización con Astro"],
+      "url": "https://github.com/OrichalcosShunnoros/portfolio-min"
+    },
+    {
+      "name": "backendEstructuraBasica",
+      "description": "Estructura básica para proyectos backend en JavaScript.",
+      "highlights": ["Configuración inicial de servidor", "Gestión de rutas y controladores"],
+      "url": "https://github.com/OrichalcosShunnoros/backendEstructuraBasica"
+    },
+    {
+      "name": "LQH-MobileApp",
+      "description": "Aplicación móvil para la Liga Quindiana de Hapkido (LQH).",
+      "highlights": ["Integración con APIs externas", "Interfaz de usuario intuitiva"],
+      "url": "https://github.com/OrichalcosShunnoros/LQH-MobileApp"
+    },
+    {
+      "name": "html-semantico",
+      "description": "Bosquejo sobre HTML semántico.",
+      "highlights": ["Buenas prácticas en HTML5", "Estructura semántica"],
+      "url": "https://github.com/OrichalcosShunnoros/html-semantico"
+    },
+    {
+      "name": "pyGen",
+      "description": "Compendio de utilidades que incluye un generador de QR, descargador de videos y conversor MP4 a MP3.",
+      "highlights": ["Automatización con Python", "Interfaz simple y funcional"],
+      "url": "https://github.com/OrichalcosShunnoros/pyGen"
+    },
+    {
+      "name": "consoleChat",
+      "description": "Chat basado en sockets para comunicación en tiempo real.",
+      "highlights": ["Uso de hilos en Python", "Soporte para múltiples clientes"],
+      "url": "https://github.com/OrichalcosShunnoros/consoleChat"
+    },
+    {
+      "name": "JSX2Native",
+      "description": "Conversor de JSX a React Native para facilitar la migración de proyectos web a móviles.",
+      "highlights": ["Conversión de componentes JSX", "Optimización para React Native"],
+      "url": "https://github.com/OrichalcosShunnoros/JSX2Native"
+    },
+    {
+      "name": "electron",
+      "description": "Plataforma para construir aplicaciones de escritorio con JavaScript, HTML y CSS.",
+      "highlights": ["Compatibilidad multiplataforma", "Uso de Electron.js"],
+      "url": "https://github.com/OrichalcosShunnoros/electron"
+    },
+    {
+      "name": "codeRun",
+      "description": "Aplicación web que permite ejecutar código JavaScript y Python en el navegador.",
+      "highlights": ["Ejecutor de código en tiempo real", "Uso de Electron"],
+      "url": "https://github.com/OrichalcosShunnoros/codeRun"
+    },
+    {
+      "name": "miniCodeEditor",
+      "description": "Editor de código en Tkinter con soporte para Python y JavaScript.",
+      "highlights": ["Interfaz gráfica con Tkinter", "Soporte para múltiples lenguajes"],
+      "url": "https://github.com/OrichalcosShunnoros/miniCodeEditor"
+    },
+    {
+      "name": "TypingGameWeb",
+      "description": "Juego web para mejorar la mecanografía.",
+      "highlights": ["Práctica interactiva de mecanografía", "Gamificación del aprendizaje"],
+      "url": "https://github.com/OrichalcosShunnoros/TypingGameWeb"
+    },
+    {
+      "name": "ToDoApp-REACT",
+      "description": "Aplicación de gestión de tareas en React.",
+      "highlights": ["Uso de React y Hooks", "Manejo de estados con useState"],
+      "url": "https://github.com/OrichalcosShunnoros/ToDoApp-REACT"
+    },
+    {
+      "name": "ppt.io",
+      "description": "Juego clásico de piedra, papel o tijera en línea.",
+      "highlights": ["Interactividad con JavaScript", "Diseño responsive"],
+      "url": "https://github.com/OrichalcosShunnoros/ppt.io"
+    },
+    {
+      "name": "cuentoJ.github.io",
+      "description": "Cuento desarrollado exclusivamente con HTML y CSS.",
+      "highlights": ["Narrativa interactiva", "Uso creativo de HTML y CSS"],
+      "url": "https://github.com/OrichalcosShunnoros/cuentoJ.github.io"
+    }
+  ]
 }

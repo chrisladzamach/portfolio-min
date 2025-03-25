@@ -16,6 +16,12 @@ const SOCIAL_ICONS: Record<string, any> = {
   LinkedIn,
   GitHub,
 }
+
+const linkedinInfo = profiles.find(({ network }) => network === 'LinkedIn')
+
+const linkedinUrl = linkedinInfo?.url
+
+const printInfo = [ email, phone, linkedinUrl ].filter(Boolean).join(' • ')
 ---
 
 <Section>
@@ -28,51 +34,52 @@ const SOCIAL_ICONS: Record<string, any> = {
           <WorldMap />
         {city}, {region}
        </span>
-       <footer>
-        {
-          email && (
-            <a 
-              href={`mailto:${email}`}
-              title={`Send an email to ${name} at ${email}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <!-- Robar icono -->
-              <Mail />
-            </a>
-          )
-        }
-
-        {
-          phone && (
-            <a 
-              href={`tel:${phone}`}
-              title={`Call ${name} at ${phone}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <!-- Robar icono -->
-              <Phone />
-            </a>
-          )
-        }
-
-        {
-          profiles.map(( {network, url, username }) => {
-            const Icon = SOCIAL_ICONS[network]
-            return (
+        <footer class="print">{printInfo}</footer>
+        <footer class="no-print">
+          {
+            email && (
               <a 
-                href={url}
-                title={`Connect with ${name} on ${network}`}
+                href={`mailto:${email}`}
+                title={`Send an email to ${name} at ${email}`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Icon />
+                <!-- Robar icono -->
+                <Mail />
               </a>
             )
-          })
-        }
-       </footer>
+          }
+
+          {
+            phone && (
+              <a 
+                href={`tel:${phone}`}
+                title={`Call ${name} at ${phone}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <!-- Robar icono -->
+                <Phone />
+              </a>
+            )
+          }
+
+          {
+            profiles.map(( {network, url, username }) => {
+              const Icon = SOCIAL_ICONS[network]
+              return (
+                <a 
+                  href={url}
+                  title={`Connect with ${name} on ${network}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <Icon />
+                </a>
+              )
+            })
+          }
+        </footer>
     </div>
     <figure>
       <img src={image} alt={name} />
@@ -123,9 +130,11 @@ const SOCIAL_ICONS: Record<string, any> = {
   }
 
   footer {
+    font-size: .57rem;
     display: flex;
     gap: 4px;
     margin-top: 8px;
+    color: #555;
   }
 
   footer a {
@@ -143,5 +152,21 @@ const SOCIAL_ICONS: Record<string, any> = {
   footer a:hover {
     background: #eee;
     border: 1px solid #ddd;
+  }
+
+  @media print {
+    .no-print {
+      display: none;
+    }
+  }
+
+  .print {
+    display: none;
+  }
+
+  @media print {
+    .print {
+      display: block;
+    }
   }
 </style>
