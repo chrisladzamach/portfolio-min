@@ -27,17 +27,74 @@
     }
   ]
   },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
+  "work": [
+    {
+      "name": "Autónomo",
+      "position": "Desarrollador Web",
+      "url": "",
+      "startDate": "2024-05-01",
+      "endDate": null,
+      "summary": "He desarrollado soluciones de software que facilitan y optimizan actividades a usuarios que han presentado dificultades o tiempos demasiado largos en diferentes procesos.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Autónomo",
+      "position": "Profesor de clases particulares",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "summary": "He brindado apoyo a jóvenes de diferentes grados educativos con actividades en las que presentan dificultades, ya que la intención es incentivar al estudio y aprendizaje de la mejor forma posible, y permitiendo un mejor rendimiento a nivel académico por parte del joven, implementando diferentes estrategias metodológicas para lograr cumplir el objetivo propuesto y desarrollando metodologías en las situaciones en que se ha necesitado.",
+      "highlights": [
+        ""
+      ]
+    },
+  {
+    "name": "Autónomo",
+    "position": "Diseñador Gráfico",
+    "url": "",
+    "startDate": "2024-01-01",
+    "endDate": null,
+    "summary": "He desarrollado logotipos, isotipos, isologos, banners publicitarios, afiches, líneas gráficas y demás en función de las necesidades de mis clientes, cumpliendo a satisfacción con la actividad requerida y el enfoque.",
+    "highlights": [
+      ""
+    ]
+  },
+  {
+    "name": "Liga Quindiana de Hapkido",
+    "position": "Profesor",
+    "url": "",
     "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "endDate": null,
+    "summary": "Me he desempeñado en el cardo de instructor, entrenador y profesor en el ámbito de las artes marciales desde hace más de 10 años, brindando acompañamiento en procesos deportivos y técnicos correspondientes a la Liga Quindiana de Hapkido (LQH).",
     "highlights": [
       "Started the company"
     ]
-  }],
+  },
+  {
+    "name": "Distribuciones JD",
+    "position": "Asesor Comercial",
+    "url": "",
+    "startDate": "2023-06-01",
+    "endDate": "2024-12-31",
+    "summary": "Desempeñé el cargo de asesor comercial y mercaderista, con diversas funciones dentro de la empresa en el área comercial.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "VaserMJ distribuciones",
+    "position": "Asesor Comercial",
+    "url": "",
+    "startDate": "2021-11-01",
+    "endDate": "2023-02-01",
+    "summary": "Desempeñé el cargo de asesor comercial y mercaderista, con diversas funciones dentro de la empresa en el área comercial.",
+    "highlights": [
+      "Started the company"
+    ]
+  }
+],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
