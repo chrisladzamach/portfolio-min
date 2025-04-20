@@ -14,8 +14,8 @@ A simple and minimalist web-based CV built with [Astro](https://astro.build/). T
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/minimalist-web-cv.git
-cd minimalist-web-cv
+git clone https://github.com/yourusername/portfolio-min.git
+cd portfolio-min
 npm install
 ```
 
@@ -41,7 +41,7 @@ npm run preview
 
 ## Customization
 
-- Modify the `src/content/cv.md` file to update the resume content.
+- Modify the `src/cv.json` file to update the resume content.
 - Update styles in `src/styles/global.css`.
 - Adjust components in `src/components/` as needed.
 
