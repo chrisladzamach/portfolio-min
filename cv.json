@@ -2,10 +2,10 @@
   "basics": {
     "name": "Christian S. Zambrano",
     "label": "Programmer",
-    "image": "https://www.github.com/OrichalcosShunnoros.png",
+    "image": "https://www.github.com/chrisladzamach.png",
     "email": "software.project.zero@gmail.com",
     "phone": "(300) 346-6295",
-    "url": "https://github.com/OrichalcosShunnoros",
+    "url": "https://github.com/chrisladzamach",
     "summary": "Software Analyst and Developer interested in creating effective and efficient solutions. I have experience in JavaScript, React.js, Python, and backend technologies such as Node.js and Express. I specialize in building applications that solve real problems. My knowledge of SQL and NoSQL databases, such as PostgreSQL and MongoDB, allows me to manage data optimally. I'm always looking to learn more and collaborate on projects contributing innovation.",
     "location": {
       "address": "2712 Broadway St",
@@ -22,8 +22,8 @@
     },
     {
       "network": "GitHub",
-      "username": "OrichalcosShunnoros",
-      "url": "https://github.com/OrichalcosShunnoros"
+      "username": "chrisladzamach",
+      "url": "https://github.com/chrisladzamach"
     }
   ]
   },
@@ -278,85 +278,85 @@
       "name": "portfolio-min",
       "description": "Un portafolio minimalista desarrollado con Astro.",
       "highlights": ["Implementación de diseño responsivo", "Optimización con Astro"],
-      "url": "https://github.com/OrichalcosShunnoros/portfolio-min"
+      "url": "https://github.com/chrisladzamach/portfolio-min"
     },
     {
       "name": "backendEstructuraBasica",
       "description": "Estructura básica para proyectos backend en JavaScript.",
       "highlights": ["Configuración inicial de servidor", "Gestión de rutas y controladores"],
-      "url": "https://github.com/OrichalcosShunnoros/backendEstructuraBasica"
+      "url": "https://github.com/chrisladzamach/backendEstructuraBasica"
     },
     {
       "name": "LQH-MobileApp",
       "description": "Aplicación móvil para la Liga Quindiana de Hapkido (LQH).",
       "highlights": ["Integración con APIs externas", "Interfaz de usuario intuitiva"],
-      "url": "https://github.com/OrichalcosShunnoros/LQH-MobileApp"
+      "url": "https://github.com/chrisladzamach/LQH-MobileApp"
     },
     {
       "name": "html-semantico",
       "description": "Bosquejo sobre HTML semántico.",
       "highlights": ["Buenas prácticas en HTML5", "Estructura semántica"],
-      "url": "https://github.com/OrichalcosShunnoros/html-semantico"
+      "url": "https://github.com/chrisladzamach/html-semantico"
     },
     {
       "name": "pyGen",
       "description": "Compendio de utilidades que incluye un generador de QR, descargador de videos y conversor MP4 a MP3.",
       "highlights": ["Automatización con Python", "Interfaz simple y funcional"],
-      "url": "https://github.com/OrichalcosShunnoros/pyGen"
+      "url": "https://github.com/chrisladzamach/pyGen"
     },
     {
       "name": "consoleChat",
       "description": "Chat basado en sockets para comunicación en tiempo real.",
       "highlights": ["Uso de hilos en Python", "Soporte para múltiples clientes"],
-      "url": "https://github.com/OrichalcosShunnoros/consoleChat"
+      "url": "https://github.com/chrisladzamach/consoleChat"
     },
     {
       "name": "JSX2Native",
       "description": "Conversor de JSX a React Native para facilitar la migración de proyectos web a móviles.",
       "highlights": ["Conversión de componentes JSX", "Optimización para React Native"],
-      "url": "https://github.com/OrichalcosShunnoros/JSX2Native"
+      "url": "https://github.com/chrisladzamach/JSX2Native"
     },
     {
       "name": "electron",
       "description": "Plataforma para construir aplicaciones de escritorio con JavaScript, HTML y CSS.",
       "highlights": ["Compatibilidad multiplataforma", "Uso de Electron.js"],
-      "url": "https://github.com/OrichalcosShunnoros/electron"
+      "url": "https://github.com/chrisladzamach/electron"
     },
     {
       "name": "codeRun",
       "description": "Aplicación web que permite ejecutar código JavaScript y Python en el navegador.",
       "highlights": ["Ejecutor de código en tiempo real", "Uso de Electron"],
-      "url": "https://github.com/OrichalcosShunnoros/codeRun"
+      "url": "https://github.com/chrisladzamach/codeRun"
     },
     {
       "name": "miniCodeEditor",
       "description": "Editor de código en Tkinter con soporte para Python y JavaScript.",
       "highlights": ["Interfaz gráfica con Tkinter", "Soporte para múltiples lenguajes"],
-      "url": "https://github.com/OrichalcosShunnoros/miniCodeEditor"
+      "url": "https://github.com/chrisladzamach/miniCodeEditor"
     },
     {
       "name": "TypingGameWeb",
       "description": "Juego web para mejorar la mecanografía.",
       "highlights": ["Práctica interactiva de mecanografía", "Gamificación del aprendizaje"],
-      "url": "https://github.com/OrichalcosShunnoros/TypingGameWeb"
+      "url": "https://github.com/chrisladzamach/TypingGameWeb"
     },
     {
       "name": "ToDoApp-REACT",
       "description": "Aplicación de gestión de tareas en React.",
       "highlights": ["Uso de React y Hooks", "Manejo de estados con useState"],
-      "url": "https://github.com/OrichalcosShunnoros/ToDoApp-REACT"
+      "url": "https://github.com/chrisladzamach/ToDoApp-REACT"
     },
     {
       "name": "ppt.io",
       "description": "Juego clásico de piedra, papel o tijera en línea.",
       "highlights": ["Interactividad con JavaScript", "Diseño responsive"],
-      "url": "https://github.com/OrichalcosShunnoros/ppt.io"
+      "url": "https://github.com/chrisladzamach/ppt.io"
     },
     {
       "name": "cuentoJ.github.io",
       "description": "Cuento desarrollado exclusivamente con HTML y CSS.",
       "highlights": ["Narrativa interactiva", "Uso creativo de HTML y CSS"],
-      "url": "https://github.com/OrichalcosShunnoros/cuentoJ.github.io"
+      "url": "https://github.com/chrisladzamach/cuentoJ.github.io"
     }
   ]
 }
